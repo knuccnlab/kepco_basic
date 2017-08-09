@@ -1,0 +1,101 @@
+id,employed,income,sex,age,habitation,have.house,marital.stat
+1056,TRUE,400000,F,44,Gyeonggi,TRUE,Married
+9577,NA,110000,M,26,Seoul,TRUE,Never Married
+6307,TRUE,135000,M,46,Busan,TRUE,Divorced
+2288,NA,50000,M,26,Seoul,TRUE,Widowed
+4248,FALSE,98000,F,35,Gwangju,FALSE,Married
+5579,TRUE,125000,M,29,Kangwon,FALSE,Never Married
+2458,TRUE,87000,F,41,Daegu,TRUE,Married
+1297,NA,25000,M,25,Daejeon,TRUE,Never Married
+8332,TRUE,94500,F,45,Chungnam,TRUE,Married
+3748,NA,35000,M,25,Chungbuk,TRUE,Never Married
+7196,FALSE,65000,M,43,Gyeongnam,TRUE,Divorced
+4278,FALSE,138000,M,23,Gyeongbuk,TRUE,Widowed
+7993,FALSE,397000,F,26,Seoul,TRUE,Married
+6043,TRUE,78000,M,29,Gyeonggi,TRUE,Never Married
+7797,TRUE,165200,F,35,Seoul,FALSE,Married
+1439,TRUE,76000,M,29,Busan,TRUE,Never Married
+8004,FALSE,33000,F,41,Seoul,TRUE,Divorced
+4760,NA,85000,M,43,Seoul,FALSE,Widowed
+9492,TRUE,21000,M,32,Gyeongnam,FALSE,Widowed
+8045,TRUE,48000,M,38,Gyeongbuk,FALSE,Married
+8920,TRUE,285000,F,28,Chungbuk,TRUE,Never Married
+4372,NA,165000,M,43,Gyeonggi,FALSE,Divorced
+658,FALSE,150000,F,32,Seoul,TRUE,Widowed
+4131,TRUE,90000,M,25,Busan,FALSE,Widowed
+5613,NA,25000,F,38,Gwangju,FALSE,Married
+7924,FALSE,51000,M,31,Kangwon,TRUE,Married
+1127,TRUE,220000,M,35,Daegu,TRUE,Never Married
+2610,FALSE,26000,M,40,Daejeon,TRUE,Married
+6449,TRUE,60000,F,42,Chungnam,TRUE,Never Married
+6949,TRUE,100000,M,55,Chungbuk,TRUE,Divorced
+3680,TRUE,90000,F,23,Gyeongnam,TRUE,Widowed
+9760,TRUE,140000,M,57,Gyeongbuk,TRUE,Never Married
+6819,TRUE,90000,F,29,Busan,FALSE,Married
+5166,NA,168000,F,38,Gwangju,TRUE,Never Married
+1057,FALSE,9000,F,53,Gyeongnam,TRUE,Married
+5367,NA,61000,M,42,Gyeongbuk,TRUE,Never Married
+8612,FALSE,1400,M,34,Chungnam,TRUE,Divorced
+4231,TRUE,40000,F,35,Chungbuk,TRUE,Widowed
+3578,TRUE,45000,F,45,Seoul,FALSE,Never Married
+3022,NA,140000,F,59,Busan,TRUE,Married
+3466,FALSE,27000,M,25,Gwangju,TRUE,Never Married
+9689,NA,69000,M,47,Kangwon,TRUE,Divorced
+773,TRUE,77000,F,55,Daegu,TRUE,Married
+1520,NA,127000,F,53,Daejeon,TRUE,Never Married
+750,FALSE,12600,F,46,Chungnam,TRUE,Divorced
+4099,TRUE,110000,M,42,Chungbuk,TRUE,Widowed
+2207,TRUE,54500,M,56,Gyeongnam,TRUE,Never Married
+9427,TRUE,75000,F,34,Gyeongbuk,TRUE,Divorced
+498,TRUE,96000,F,52,Chungbuk,TRUE,Widowed
+9370,NA,10200,F,38,Gyeongnam,FALSE,Married
+6302,NA,19000,M,45,Gyeongbuk,TRUE,Never Married
+9605,FALSE,200,M,33,Gyeonggi,TRUE,Married
+1963,TRUE,172000,F,20,Seoul,FALSE,Never Married
+7037,TRUE,130000,F,26,Busan,FALSE,Divorced
+8474,TRUE,100000,F,25,Busan,TRUE,Widowed
+3318,TRUE,31000,M,20,Seoul,TRUE,Married
+6384,FALSE,800,M,34,Gyeonggi,TRUE,Never Married
+5215,TRUE,177000,F,42,Seoul,TRUE,Divorced
+4216,NA,45000,F,0,Busan,FALSE,Married
+7083,NA,80050,F,42,Seoul,TRUE,Never Married
+436,TRUE,90600,M,26,Seoul,FALSE,Married
+2505,NA,27200,M,33,Gyeonggi,TRUE,Never Married
+8944,FALSE,25000,F,34,Seoul,TRUE,Married
+6553,TRUE,108000,F,23,Busan,FALSE,Never Married
+3878,TRUE,192000,F,38,Seoul,FALSE,Divorced
+8158,TRUE,93500,M,34,Gwangju,TRUE,Widowed
+2374,FALSE,15301,M,31,Chungbuk,FALSE,Divorced
+2921,TRUE,69900,F,32,Seoul,TRUE,Widowed
+9568,TRUE,170000,F,50,Gwangju,TRUE,Divorced
+6257,TRUE,48000,F,25,Chungbuk,FALSE,Married
+9232,TRUE,68000,M,29,Busan,FALSE,Never Married
+4608,TRUE,570200,M,53,Gwangju,TRUE,Married
+3788,TRUE,125000,F,23,Gyeonggi,FALSE,Never Married
+5039,FALSE,-14100,F,31,Seoul,TRUE,Divorced
+7861,TRUE,148000,F,28,Busan,FALSE,Widowed
+1884,TRUE,70000,M,35,Gyeonggi,FALSE,Never Married
+6720,NA,50600,M,36,Gyeonggi,FALSE,Divorced
+1569,TRUE,143100,M,25,Gyeonggi,TRUE,Married
+6580,TRUE,105000,F,32,Gyeonggi,FALSE,Never Married
+8489,FALSE,9600,F,112,Busan,TRUE,Divorced
+9662,TRUE,75100,F,31,Gwangju,FALSE,Married
+8637,TRUE,35020,M,27,Gyeonggi,FALSE,Never Married
+7578,TRUE,26700,M,30,Gyeonggi,FALSE,Divorced
+4244,TRUE,38400,F,41,Seoul,TRUE,Divorced
+6262,TRUE,53010,F,29,Gyeonggi,TRUE,Married
+2000,NA,17000,F,43,Seoul,TRUE,Never Married
+9979,FALSE,15000,M,45,Busan,TRUE,Never Married
+7590,NA,285000,M,54,Seoul,TRUE,Widowed
+4351,FALSE,15800,F,55,Gyeonggi,TRUE,Never Married
+1135,NA,382000,F,42,Seoul,TRUE,Divorced
+2736,TRUE,388000,F,36,Busan,FALSE,Married
+2077,NA,10100,M,34,Seoul,TRUE,Never Married
+6574,FALSE,18200,M,29,Seoul,FALSE,Divorced
+5682,FALSE,12600,F,60,Gyeonggi,TRUE,Widowed
+5993,TRUE,120000,F,52,Seoul,TRUE,Never Married
+7303,TRUE,104000,F,40,Busan,TRUE,Divorced
+7938,TRUE,103500,M,42,Seoul,FALSE,Widowed
+1139,TRUE,190000,M,33,Gyeonggi,TRUE,Married
+6603,FALSE,5500,F,120,Seoul,TRUE,Never Married
+9099,TRUE,71000,F,141,Busan,TRUE,Divorced
